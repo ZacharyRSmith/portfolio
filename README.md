@@ -9,7 +9,7 @@ __Java-TTT__
 
 Basic tic-tac-toe in Java.
 
-__Tech:__ Java
+_Tech:_ Java
 
 
 ___
@@ -20,6 +20,6 @@ https://github.com/ZacharyRSmith/Py-tic-tac-toe
 
 Basic tic-tac-toe in Python. Tests include "tests_live", which uses input and expected output files to assert code's functioning.
 
-__Tech:__ File I/O, Python
+_Tech:_ File I/O, Python
 
-__Concepts:__ Game/win logic, User interaction
+_Concepts:_ Game/win logic, User interaction
