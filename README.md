@@ -7,7 +7,7 @@ __Python and Django__
 
 
 ___
-#___JAVA___
+# Java
 
 __Java-TTT__
 
@@ -19,7 +19,7 @@ Tech: Java
 
 
 ___
-#___PYTHON and DJANGO___
+# Python and Django
 
 __todo__
 
