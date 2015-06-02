@@ -1,5 +1,5 @@
 # portfolio
-__Summary of my various projects, listed in this order:__
+__Summary of my various projects, grouped by language in this order:__
 
 __Java__
 
