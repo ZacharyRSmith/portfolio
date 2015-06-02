@@ -1,5 +1,7 @@
 # portfolio
-Summary of my various projects
+Summary of my various projects, listed in this order:
+Java
+Python and Django
 
 
 ___
