@@ -2,7 +2,7 @@
 Summary of my various projects
 
 ___
-___JAVA
+___JAVA___
 
 Java-TTT
 
