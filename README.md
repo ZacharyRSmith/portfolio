@@ -1,13 +1,13 @@
 # portfolio
-Summary of my various projects, listed in this order:
+__Summary of my various projects, listed in this order:__
 
-Java
+__Java__
 
-Python and Django
+__Python and Django__
 
 
 ___
-___JAVA___
+#___JAVA___
 
 __Java-TTT__
 
@@ -19,7 +19,7 @@ Tech: Java
 
 
 ___
-___PYTHON and DJANGO___
+#___PYTHON and DJANGO___
 
 __todo__
 
