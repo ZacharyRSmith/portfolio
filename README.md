@@ -1,6 +1,8 @@
 # portfolio
 Summary of my various projects, listed in this order:
+
 Java
+
 Python and Django
 
 
