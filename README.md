@@ -69,6 +69,16 @@ Concepts: Game/win logic, Testing, User interaction
 ___
 # Ruby and Ruby on Rails
 
+__Scheduler__
+
+https://github.com/ZacharyRSmith/scheduler
+
+Users paste in html tables of class times. App displays all possible combinations of class sections.
+
+For the University System of Georgia's "Banner" websites.
+
+This app was hacked together. Best practices were waved at O_: )
+
 __Chess__
 
 https://github.com/ZacharyRSmith/chess
