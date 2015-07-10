@@ -63,7 +63,7 @@ Basic tic-tac-toe in Python. Tests include "tests_live", which uses an input fil
 
 Tech: File I/O, Python
 
-Concepts: Game/win logic, Testing, User interaction
+Concepts: Game/win logic, Testing, User interaction
 
 
 ___
