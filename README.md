@@ -1,111 +1,61 @@
 # Portfolio
 
-__Some of my web application experiences__
+> __Some software I have worked on__
 
-## [Knowhere](https://github.com/ZacharyRSmith/Knowhere)
+#### Contact:
+
+- ZacharySmith4989@gmail.com
+
+- [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
+
+- [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
+
+## [Knowhere](https://knowhere.herokuapp.com)
 
 > A web app that enables individuals and groups to organize travel itineraries.
 
-> [Deployed link](knowhere.herokuapp.com).
+> [Link to live site](https://knowhere.herokuapp.com).
 
-__Summary of my various projects, grouped by language in this order:__
+> [Link to code](https://github.com/ZacharyRSmith/Knowhere).
 
-__Java__
+#### Accomplishments as a Full-Stack Engineer & Lead of Test and Devops:
 
-__JavaScript__
-
-__Python and Django__
-
-__Ruby and Ruby on Rails__
+- Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
+- Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai.
+- Led devops using Grunt, NPM, & TravisCI, leading to continuous integration and increased developer efficiency.
 
 
-___
-# Java
 
-__Java-TTT__
+## [ShowPlots](http://www.showplots.com/)
 
-https://github.com/ZacharyRSmith/java-ttt
+> A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
 
-Basic tic-tac-toe in Java.
+> [Link to live site](http://www.showplots.com).
 
-Tech: Game/win logic, User interaction
+> [Link to code](https://github.com/ZacharyRSmith/showplots).
 
+#### Accomplishments as a Frontend Engineer:
 
-___
-# JavaScript
-
-__Minesweeper__
-
-https://github.com/ZacharyRSmith/minesweeper
-
-A JS recreation of the classic video game "minesweeper".
-
-Hosted at: http://jsfiddle.net/zacharyrsmith/m2g8s6ma/
-
-__Snake__
-
-https://github.com/ZacharyRSmith/snake
-
-A JS recreation of the classic video game "snake".
-
-Hosted at: http://jsfiddle.net/zacharyrsmith/qshse863/
+- Set up autocomplete in search bar using AngularJS’s UI-Select and calls to an external API, adding to app’s user-friendliness.
+- Solved the problem of irrelevant search results by filtering results by popularity score.
 
 
-___
-# Python and Django
 
-__todo__
+## [Sage](https://github.com/ZacharyRSmith/sage)
 
-https://github.com/ZacharyRSmith/todo
+> A to-do web app with a clean, easy-to-use interface.
 
-A simple to-do app I made after completing the official Django tutorial
+> [Link to code](https://github.com/ZacharyRSmith/sage).
 
-Tech: Django, Python
+#### Accomplishments as a Backend Engineer:
 
-Concepts: Class field validations, MVT architecture, Testing
-
-__Py-tic-tac-toe__
-
-https://github.com/ZacharyRSmith/Py-tic-tac-toe
-
-Basic tic-tac-toe in Python. Tests include "tests_live", which uses an input file to mimic user input, and expected output files.
-
-Tech: File I/O, Python
-
-Concepts: Game/win logic, Testing, User interaction
+- Set up multiple MongoDb/Mongoose schemas and models using MVC architecture.
+- Collaborated to achieve 90% test coverage of backend using Mocha/Chai.
 
 
-___
-# Ruby and Ruby on Rails
 
-__Scheduler__
+## [Chess](https://github.com/ZacharyRSmith/chess)
 
-https://github.com/ZacharyRSmith/scheduler
+> An interactive chess program in pure Ruby, played on the command line.
 
-Users paste in html tables of class times. App displays all possible combinations of class sections.
-
-For the University System of Georgia's "Banner" websites.
-
-This app was hacked together. Best practices were waved at O_: )
-
-__Chess__
-
-https://github.com/ZacharyRSmith/chess
-
-This is a command-line, text-based program to play chess. It referees moves' legality, and ends game upon checkmate. With tests.
-
-Tech: Game/win logic, Testing, User interaction
-
-__Awesome Events__
-
-https://github.com/ZacharyRSmith/awesome-events
-
-Users can be both creators and attendees of events.
-
-__3D Tic-Tac-Toe__
-
-https://github.com/ZacharyRSmith/TicTacToe
-
-Brain teaser with smart AI. Tic-Tac-Toe in a 3x3x3 cube instead of a 2D grid.
-
-Tech: Basic non-random AI, Game/win logic, User interaction
+> [Link to code](https://github.com/ZacharyRSmith/chess).
