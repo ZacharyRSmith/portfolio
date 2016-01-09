@@ -1,10 +1,10 @@
 # Portfolio
 
-> __Some software I have worked on__
+> __Some software I have worked on.__
 
 #### Contact:
 
-- ZacharySmith4989@gmail.com
+- ZacharySmith4989@gmail.com.
 
 - [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
 
