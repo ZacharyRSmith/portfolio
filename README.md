@@ -1,6 +1,6 @@
 # Portfolio
 
-> __Some software I have worked on.  See my LinkedIn for professional experiences not included here.__
+> __Some software I have worked on.  See [my LinkedIn](https://www.linkedin.com/in/ZacharySmith4989) for professional experiences not included here.__
 
 #### Contact:
 
