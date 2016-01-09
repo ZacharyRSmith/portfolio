@@ -1,6 +1,6 @@
 # Portfolio
 
-> __Some software I have worked on.__
+> __Some software I have worked on.  See my LinkedIn for professional experiences not included here.__
 
 #### Contact:
 
