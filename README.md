@@ -34,6 +34,8 @@
 
 > [Link to code](https://github.com/ZacharyRSmith/showplots).
 
+![Image of Knowhere](https://github.com/ZacharyRSmith/portfolio/knowhere.png)
+
 #### Accomplishments as a Frontend Engineer:
 
 - Set up autocomplete in search bar using AngularJS’s UI-Select and calls to an external API, adding to app’s user-friendliness.
