@@ -18,6 +18,8 @@
 
 > [Link to code](https://github.com/ZacharyRSmith/Knowhere).
 
+![Image of Knowhere](/knowhere.png)
+
 #### Accomplishments as a Full-Stack Engineer & Lead of Test and Devops:
 
 - Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
@@ -34,7 +36,7 @@
 
 > [Link to code](https://github.com/ZacharyRSmith/showplots).
 
-![Image of Knowhere](https://github.com/ZacharyRSmith/portfolio/knowhere.png)
+![Image of ShowPlots](/show-plots.png)
 
 #### Accomplishments as a Frontend Engineer:
 
