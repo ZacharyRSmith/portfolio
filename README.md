@@ -10,22 +10,6 @@
 
 - [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
 
-## [Knowhere](https://knowhere.herokuapp.com)
-
-> A web app that enables individuals and groups to organize travel itineraries.
-
-> [Link to live site](https://knowhere.herokuapp.com).
-
-> [Link to code](https://github.com/ZacharyRSmith/Knowhere).
-
-![Image of Knowhere](/knowhere.png)
-
-#### Accomplishments as a Full-Stack Engineer & Lead of Test and Devops:
-
-- Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
-- Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai.
-- Led devops using Grunt, NPM, & TravisCI, leading to continuous integration and increased developer efficiency.
-
 
 
 ## [ShowPlots](http://www.showplots.com/)
@@ -42,6 +26,26 @@
 
 - Set up autocomplete in search bar using AngularJS’s UI-Select and calls to an external API, adding to app’s user-friendliness.
 - Solved the problem of irrelevant search results by filtering results by popularity score.
+
+
+
+## [Knowhere](https://knowhere.herokuapp.com)
+
+> A web app that enables individuals and groups to organize travel itineraries.
+
+<!--
+> [Link to live site](https://knowhere.herokuapp.com).
+-->
+
+> [Link to code](https://github.com/ZacharyRSmith/Knowhere).
+
+![Image of Knowhere](/knowhere.png)
+
+#### Accomplishments as a Full-Stack Engineer & Lead of Test and Devops:
+
+- Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
+- Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai.
+- Led devops using Grunt, NPM, & TravisCI, leading to continuous integration and increased developer efficiency.
 
 
 
