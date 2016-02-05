@@ -49,9 +49,11 @@
 
 
 
-## [Sage](https://github.com/ZacharyRSmith/sage)
+## [Sage](http://sageknights.herokuapp.com)
 
 > A to-do web app with a clean, easy-to-use interface.
+
+> [Link to live site](http://sageknights.herokuapp.com).
 
 > [Link to code](https://github.com/ZacharyRSmith/sage).
 
