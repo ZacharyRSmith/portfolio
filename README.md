@@ -2,6 +2,8 @@
 
 > __Some software I have worked on.  See [my LinkedIn](https://www.linkedin.com/in/ZacharySmith4989) for professional experiences not included here.__
 
+> __Specific [code sample](code_sample.md).__
+
 #### Contact:
 
 - ZacharySmith4989@gmail.com.
