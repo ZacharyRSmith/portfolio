@@ -4,21 +4,22 @@
 
 > __Specific [code samples](code_sample.md).__
 
-#### Contact:
+## Table of Contents
+
+1. [Contact Info](#contact-info)
+1. [ShowPlots](#showplots)
+1. [Knowhere](#knowhere)
+1. [Sage](#sage)
+1. [Chess](#chess) (personal project)
+1. [Exercism](#exercism) (coding challenges)
+
+## Contact Info
 
 - ZacharySmith4989@gmail.com.
 
 - [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
 
 - [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
-
-## Table of Contents
-
-1. [ShowPlots](#showplots)
-1. [Knowhere](#knowhere)
-1. [Sage](#sage)
-1. [Chess](#chess) (personal project)
-1. [Exercism](#exercism) (coding challenges)
 
 
 
