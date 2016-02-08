@@ -12,6 +12,14 @@
 
 - [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
 
+## Table of Contents
+
+1. [ShowPlots](#showplots)
+1. [Knowhere](#knowhere)
+1. [Sage](#sage)
+1. [Chess](#chess) (personal project)
+1. [Exercism](#exercism) (coding challenges)
+
 
 
 ## [ShowPlots](http://www.showplots.com/)
@@ -71,3 +79,11 @@
 > An interactive chess program in pure Ruby, played on the command line.
 
 > [Link to code](https://github.com/ZacharyRSmith/chess).
+
+
+
+## [Exercism](https://github.com/ZacharyRSmith/exercism)
+
+> My folder for exercism.io's exercises, for people "hooked on clean code".
+
+> [Link to code](https://github.com/ZacharyRSmith/exercism).
