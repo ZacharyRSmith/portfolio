@@ -26,6 +26,8 @@
 
 > A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
 
+> Team: [Andrew Pedley](http://GitHub.com/apedley), [Eugene Krayni](http://GitHub.com/eakray), [Jeff Cousins](http://GitHub.com/jeffcousins), [Lucas "Luke" Powell](http://GitHub.com/lukebpowell), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
+
 > [Link to live site](http://www.showplots.com).
 
 > [Link to code](https://github.com/ZacharyRSmith/showplots).
@@ -39,9 +41,11 @@
 
 
 
-## [Knowhere](https://knowhere.herokuapp.com)
+## [Knowhere](https://github.com/ZacharyRSmith/Knowhere)
 
 > A web app that enables individuals and groups to organize travel itineraries.
+
+> Team: [Brian Nguyen](http://github.com/brianacnguyen), [Max Gaffney](http://GitHub.com/mgaff), [Ryan Price](http://GitHub.com/rsprice), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
 
 <!--
 > [Link to live site](https://knowhere.herokuapp.com).
@@ -62,6 +66,8 @@
 ## [Sage](http://sageknights.herokuapp.com)
 
 > A to-do web app with a clean, easy-to-use interface.
+
+> Team: [Andrew Pedley](http://GitHub.com/apedley), [Eugene Krayni](http://GitHub.com/eakray), [Jeff Cousins](http://GitHub.com/jeffcousins), [Lucas "Luke" Powell](http://GitHub.com/lukebpowell), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
 
 > [Link to live site](http://sageknights.herokuapp.com).
 
