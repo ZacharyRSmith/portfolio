@@ -32,6 +32,10 @@
 
 > [My profile](http://exercism.io/ZacharyRSmith) for Exercism: exercises for people "hooked on clean code".
 
+#### Language experiences:
+
+- [Python](#python)
+
 ## Contact Info
 
 - ZacharySmith4989@gmail.com.
@@ -111,3 +115,19 @@
 ## [Exercism](http://exercism.io/ZacharyRSmith)
 
 > [My profile](http://exercism.io/ZacharyRSmith) for Exercism: exercises for people "hooked on clean code".
+
+
+
+## Python
+
+> [Learn Python the Hard Way](https://github.com/ZacharyRSmith/Py)
+
+> [Tic-tac-toe](https://github.com/ZacharyRSmith/Py-tic-tac-toe)
+
+> [To-do app in Django](https://github.com/ZacharyRSmith/todo)
+
+> [Tango with Django](https://github.com/ZacharyRSmith/twd)
+
+> I worked in Python / Django at [Edevate](Edevate.com) April 2015 - October 2015.
+
+> I also completed Udacity's "Intro to Computer Science" and "Intro to Algorithms", both using Python.
