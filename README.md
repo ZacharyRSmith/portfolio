@@ -6,12 +6,31 @@
 
 ## Table of Contents
 
-1. [Contact Info](#contact-info)
-1. [ShowPlots](#showplots)
-1. [Knowhere](#knowhere)
-1. [Sage](#sage)
-1. [Chess](#chess) (personal project)
-1. [Exercism](#exercism) (coding challenges)
+- [Contact Info](#contact-info)
+
+#### Team-built applications in the MEAN-stack:
+
+- [ShowPlots](#showplots)
+
+> A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
+
+- [Knowhere](#knowhere)
+
+> A web app that enables individuals and groups to organize travel itineraries.
+
+- [Sage](#sage)
+
+> A to-do web app with a clean, easy-to-use interface.
+
+#### Personal projects:
+
+- [Chess](#chess) (personal project)
+
+> An interactive chess program in pure Ruby, played on the command line.
+
+- [Exercism](#exercism) (coding challenges)
+
+> [My profile](http://exercism.io/ZacharyRSmith) for Exercism: exercises for people "hooked on clean code".
 
 ## Contact Info
 
