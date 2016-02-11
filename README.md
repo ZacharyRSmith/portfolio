@@ -120,14 +120,18 @@
 
 ## Python
 
-> [Learn Python the Hard Way](https://github.com/ZacharyRSmith/Py)
-
-> [Tic-tac-toe](https://github.com/ZacharyRSmith/Py-tic-tac-toe)
-
-> [To-do app in Django](https://github.com/ZacharyRSmith/todo)
-
-> [Tango with Django](https://github.com/ZacharyRSmith/twd)
+> My experiences in Python.
 
 > I worked in Python / Django at [Edevate](https://www.linkedin.com/company/3497543?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3497543%2Cidx%3A2-1-2%2CtarId%3A1455165145351%2Ctas%3Aedevate) April 2015 - October 2015.
 
+> [Tic-tac-toe](https://github.com/ZacharyRSmith/Py-tic-tac-toe), a personal project.
+
+> [To-do app](https://github.com/ZacharyRSmith/todo), a personal project in Django.
+
+> [My exercism profile](http://exercism.io/ZacharyRSmith), where I've completed over 20 challenges in Python.
+
 > I also completed Udacity's ["Intro to Computer Science"](https://www.udacity.com/courses/cs101) and ["Intro to Algorithms"](https://www.udacity.com/courses/cs215), both using Python.
+
+> [Tango with Django](https://github.com/ZacharyRSmith/twd), a tutorial.
+
+> [Learn Python the Hard Way](https://github.com/ZacharyRSmith/Py), a tutorial.
