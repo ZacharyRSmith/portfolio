@@ -128,6 +128,6 @@
 
 > [Tango with Django](https://github.com/ZacharyRSmith/twd)
 
-> I worked in Python / Django at [Edevate](http://www.Edevate.com) April 2015 - October 2015.
+> I worked in Python / Django at [Edevate](https://www.linkedin.com/company/3497543?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3497543%2Cidx%3A2-1-2%2CtarId%3A1455165145351%2Ctas%3Aedevate) April 2015 - October 2015.
 
 > I also completed Udacity's "Intro to Computer Science" and "Intro to Algorithms", both using Python.
