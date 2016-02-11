@@ -89,8 +89,6 @@
 
 
 
-## [Exercism](https://github.com/ZacharyRSmith/exercism)
+## [Exercism](http://exercism.io/ZacharyRSmith)
 
-> My folder for exercism.io's exercises, for people "hooked on clean code".
-
-> [Link to code](https://github.com/ZacharyRSmith/exercism).
+> [My profile](http://exercism.io/ZacharyRSmith) for Exercism: exercises for people "hooked on clean code".
