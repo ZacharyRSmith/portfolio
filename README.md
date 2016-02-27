@@ -124,7 +124,7 @@
 
 > My experiences in Java.
 
-> [Tic-tac-toe](https://github.com/ZacharyRSmith/java-ttt), a personal project.
+> [Tic-tac-toe](https://github.com/ZacharyRSmith/java-ttt) (in Java), a personal project.
 
 > Completed Udacity's ["Intro to Java Programming"](https://www.udacity.com/courses/cs046) and Pluralsight's ["Encapsulation and SOLID"](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents), which uses the similar C# language.
 
@@ -136,7 +136,7 @@
 
 > I worked in Python / Django at [Edevate](https://www.linkedin.com/company/3497543?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3497543%2Cidx%3A2-1-2%2CtarId%3A1455165145351%2Ctas%3Aedevate) April 2015 - October 2015.
 
-> [Tic-tac-toe](https://github.com/ZacharyRSmith/Py-tic-tac-toe), a personal project.
+> [Tic-tac-toe](https://github.com/ZacharyRSmith/Py-tic-tac-toe) (in Python), a personal project.
 
 > [To-do app](https://github.com/ZacharyRSmith/todo), a personal project in Django.
 
