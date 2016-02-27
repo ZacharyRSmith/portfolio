@@ -34,6 +34,8 @@
 
 #### Language experiences:
 
+- [Java](#java)
+
 - [Python](#python)
 
 ## Contact Info
@@ -118,6 +120,16 @@
 
 
 
+## Java
+
+> My experiences in Java.
+
+> [Tic-tac-toe](https://github.com/ZacharyRSmith/java-ttt), a personal project.
+
+> Completed Udacity's ["Intro to Java Programming"](https://www.udacity.com/courses/cs046) and Pluralsight's ["Encapsulation and SOLID"](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents), which uses the similar C# language.
+
+
+
 ## Python
 
 > My experiences in Python.
@@ -130,7 +142,7 @@
 
 > [My exercism profile](http://exercism.io/ZacharyRSmith), where I've completed over 20 challenges in Python.
 
-> I also completed Udacity's ["Intro to Computer Science"](https://www.udacity.com/courses/cs101) and ["Intro to Algorithms"](https://www.udacity.com/courses/cs215), both using Python.
+> Completed Udacity's ["Intro to Computer Science"](https://www.udacity.com/courses/cs101) and ["Intro to Algorithms"](https://www.udacity.com/courses/cs215), both using Python.
 
 > [Tango with Django](https://github.com/ZacharyRSmith/twd), a tutorial.
 
