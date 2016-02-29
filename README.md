@@ -4,9 +4,15 @@
 
 > __Specific [code samples](code_sample.md).__
 
-## Table of Contents
+## Contact Info
 
-- [Contact Info](#contact-info)
+- ZacharySmith4989@gmail.com.
+
+- [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
+
+- [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
+
+# Table of Contents
 
 #### Team-built applications in the MEAN-stack:
 
@@ -38,15 +44,9 @@
 
 - [Python](#python)
 
-## Contact Info
-
-- ZacharySmith4989@gmail.com.
-
-- [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
-
-- [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
 
 
+# Team-built applications in the MEAN-stack:
 
 ## [ShowPlots](http://www.showplots.com/)
 
@@ -106,6 +106,8 @@
 
 
 
+# Personal projects:
+
 ## [Chess](https://github.com/ZacharyRSmith/chess)
 
 > An interactive chess program in pure Ruby, played on the command line.
@@ -120,7 +122,7 @@
 
 
 
-## Language experiences:
+# Language experiences:
 
 ## Java
 
