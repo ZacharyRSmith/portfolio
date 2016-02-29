@@ -10,7 +10,7 @@
 
 - [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
 
-- [My Resume](https://drive.google.com/file/d/0B6b9i_P8hx_TLXM1VW0xLV9MbWs/view?usp=sharing).
+- [My Resume](goo.gl/9evrkX).
 
 # Table of Contents
 
