@@ -14,7 +14,7 @@
 
 # Table of Contents
 
-#### Team-built applications in the MEAN-stack:
+#### Team-built applications in the JavaScript MEAN-stack:
 
 - [ShowPlots](#showplots)
 
@@ -46,7 +46,7 @@
 
 
 
-# Team-built applications in the MEAN-stack:
+# Team-built applications in the JavaScript MEAN-stack:
 
 ## [ShowPlots](http://www.showplots.com/)
 
