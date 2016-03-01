@@ -48,11 +48,13 @@
 
 # Team-built applications in the JavaScript MEAN-stack:
 
-## [Knowhere](https://github.com/ZacharyRSmith/Knowhere)
+## [Knowhere](http://knowhere.herokuapp.com)
 
 > A web app that enables individuals and groups to organize travel itineraries.
 
 > Team: [Brian Nguyen](http://github.com/brianacnguyen), [Max Gaffney](http://GitHub.com/mgaff), [Ryan Price](http://GitHub.com/rsprice), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
+
+> [Link to live site](http://knowhere.herokuapp.com).
 
 <!--
 > [Link to live site](https://knowhere.herokuapp.com).
