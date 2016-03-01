@@ -16,13 +16,13 @@
 
 #### Team-built applications in the JavaScript MEAN-stack:
 
-- [ShowPlots](#showplots)
-
-> A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
-
 - [Knowhere](#knowhere)
 
 > A web app that enables individuals and groups to organize travel itineraries.
+
+- [ShowPlots](#showplots)
+
+> A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
 
 - [Sage](#sage)
 
@@ -48,25 +48,6 @@
 
 # Team-built applications in the JavaScript MEAN-stack:
 
-## [ShowPlots](http://www.showplots.com/)
-
-> A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
-
-> Team: [Andrew Pedley](http://GitHub.com/apedley), [Eugene Krayni](http://GitHub.com/eakray), [Jeff Cousins](http://GitHub.com/jeffcousins), [Lucas "Luke" Powell](http://GitHub.com/lukebpowell), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
-
-> [Link to live site](http://www.showplots.com).
-
-> [Link to code](https://github.com/ZacharyRSmith/showplots).
-
-![Image of ShowPlots](/show-plots.png)
-
-#### Accomplishments as a Frontend Engineer:
-
-- Set up autocomplete in search bar using AngularJS’s UI-Select and calls to an external API, adding to app’s user-friendliness.
-- Solved the problem of irrelevant search results by filtering results by popularity score.
-
-
-
 ## [Knowhere](https://github.com/ZacharyRSmith/Knowhere)
 
 > A web app that enables individuals and groups to organize travel itineraries.
@@ -86,6 +67,25 @@
 - Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
 - Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai.
 - Led devops using Grunt, NPM, & TravisCI, leading to continuous integration and increased developer efficiency.
+
+
+
+## [ShowPlots](http://www.showplots.com/)
+
+> A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
+
+> Team: [Andrew Pedley](http://GitHub.com/apedley), [Eugene Krayni](http://GitHub.com/eakray), [Jeff Cousins](http://GitHub.com/jeffcousins), [Lucas "Luke" Powell](http://GitHub.com/lukebpowell), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
+
+> [Link to live site](http://www.showplots.com).
+
+> [Link to code](https://github.com/ZacharyRSmith/showplots).
+
+![Image of ShowPlots](/show-plots.png)
+
+#### Accomplishments as a Frontend Engineer:
+
+- Set up autocomplete in search bar using AngularJS’s UI-Select and calls to an external API, adding to app’s user-friendliness.
+- Solved the problem of irrelevant search results by filtering results by popularity score.
 
 
 
