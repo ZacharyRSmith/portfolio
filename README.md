@@ -1,8 +1,12 @@
 # Portfolio
 
-> __Some software I have worked on.  See [my LinkedIn](https://www.linkedin.com/in/ZacharySmith4989) for professional experiences not included here.__
+> __See my best open-source work on this page.__
 
-> __Specific [code samples](code_sample.md).__
+> __Or, see [my LinkedIn](https://www.linkedin.com/in/ZacharySmith4989) for professional experiences not included here.__
+
+> __Or, see [write-ups](language_experiences/index.md) of my experiences by language.__
+
+> __Or, see specific [code samples](code_sample.md).__
 
 ## Contact Info
 
@@ -37,12 +41,6 @@
 - [Exercism](#exercism) (coding challenges)
 
 > [My profile](http://exercism.io/ZacharyRSmith) for Exercism: exercises for people "hooked on clean code".
-
-#### Language experiences:
-
-- [Java](#java)
-
-- [Python](#python)
 
 
 
@@ -121,35 +119,3 @@
 ## [Exercism](http://exercism.io/ZacharyRSmith)
 
 > [My profile](http://exercism.io/ZacharyRSmith) for Exercism: exercises for people "hooked on clean code".
-
-
-
-# Language experiences:
-
-## Java
-
-> My experiences in Java.
-
-> [Tic-tac-toe](https://github.com/ZacharyRSmith/java-ttt) (in Java), a personal project.
-
-> Completed Udacity's ["Intro to Java Programming"](https://www.udacity.com/courses/cs046) and Pluralsight's ["Encapsulation and SOLID"](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents), which uses the similar C# language.
-
-
-
-## Python
-
-> My experiences in Python.
-
-> I worked in Python / Django at [Edevate](https://www.linkedin.com/company/3497543?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3497543%2Cidx%3A2-1-2%2CtarId%3A1455165145351%2Ctas%3Aedevate) April 2015 - October 2015.
-
-> [Tic-tac-toe](https://github.com/ZacharyRSmith/Py-tic-tac-toe) (in Python), a personal project.
-
-> [To-do app](https://github.com/ZacharyRSmith/todo), a personal project in Django.
-
-> [My exercism profile](http://exercism.io/ZacharyRSmith), where I've completed over 20 challenges in Python.
-
-> Completed Udacity's ["Intro to Computer Science"](https://www.udacity.com/courses/cs101) and ["Intro to Algorithms"](https://www.udacity.com/courses/cs215), both using Python.
-
-> [Tango with Django](https://github.com/ZacharyRSmith/twd), a tutorial.
-
-> [Learn Python the Hard Way](https://github.com/ZacharyRSmith/Py), a tutorial.
