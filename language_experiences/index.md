@@ -8,21 +8,37 @@
 
 #### [Java](#java)
 
+#### [jQuery](#jquery)
+
 #### [Python](#python)
+
+#### [SQL](#sql)
 
 
 
 ## Java
 
-### My experiences in Java:
+### My main experiences in Java:
 
 > [Tic-tac-toe](https://github.com/ZacharyRSmith/java-ttt) (in Java), a personal project.
 
 > Completed Udacity's ["Intro to Java Programming"](https://www.udacity.com/courses/cs046) and Pluralsight's ["Encapsulation and SOLID"](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents), which uses the similar C# language.
 
+
+
+## jQuery
+
+### My most recent experiences in jQuery:
+
+> A 2-hour coding challenge for Tatcha.  Code [here](https://github.com/ZacharyRSmith/tatcha), live site [here](http://tatcha-challenge.herokuapp.com/).
+
+> A coding challenge for Datanyze.  Code [here](https://github.com/ZacharyRSmith/datanyze).
+
+
+
 ## Python
 
-### My experiences in Python:
+### My main experiences in Python:
 
 > I worked in Python / Django at [Edevate](https://www.linkedin.com/company/3497543?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A3497543%2Cidx%3A2-1-2%2CtarId%3A1455165145351%2Ctas%3Aedevate) April 2015 - October 2015.
 
@@ -41,3 +57,9 @@
 
 
 > [Back to portfolio](../README.md)
+
+
+
+## SQL
+
+### Most of my more advanced SQL work is described [here](https://docs.google.com/document/d/1PZGlghJ1cFzTgJmnstm4EB4Jg_Kjypxy6DfDir8QZo0/edit?usp=sharing).
