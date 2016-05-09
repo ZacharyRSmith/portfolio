@@ -63,9 +63,9 @@
 #### Accomplishments as a Full-Stack Engineer & Lead of Test and Devops:
 
 - Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
-- Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai.
 - Led devops using Grunt, NPM, & TravisCI, leading to continuous integration and increased developer efficiency.
 
+<!-- - Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai. -->
 
 
 ## [ShowPlots](http://www.showplots.com/)
