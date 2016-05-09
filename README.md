@@ -56,10 +56,6 @@
 
 > [Link to live site](http://knowhere.herokuapp.com).
 
-<!--
-> [Link to live site](https://knowhere.herokuapp.com).
--->
-
 > [Link to code](https://github.com/ZacharyRSmith/Knowhere).
 
 ![Image of Knowhere](/knowhere.png)
