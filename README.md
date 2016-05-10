@@ -14,7 +14,7 @@
 
 - [My LinkedIn](https://www.linkedin.com/in/ZacharySmith4989).
 
-- [My Resume](http://goo.gl/9evrkX).
+- [My Resume](https://goo.gl/ZRqYvc).
 
 
 
