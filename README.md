@@ -2,11 +2,13 @@
 
 > __See my best open-source work on this page.__
 
-> __Or, see [my LinkedIn](https://www.linkedin.com/in/ZacharySmith4989) for professional experiences not included here.__
-
 > __Or, see [write-ups](language_experiences/index.md) of my experiences by language.__
 
 > __Or, see specific [code samples](code_sample.md).__
+
+> __Or, see [my LinkedIn](https://www.linkedin.com/in/ZacharySmith4989) for professional experiences not included here.__
+
+> __Or, see [my blog about geek stuff](https://medium.com/@zacharyrsmith).__
 
 ## Contact Info
 
