@@ -32,11 +32,11 @@
 
 > A web app that graphs TV-shows' IMDB ratings to reveal season-long trends.
 
-- [Sage](#sage)
-
-> A to-do web app with a clean, easy-to-use interface.
-
 #### Personal projects:
+
+- [Kontact](#kontact) (personal project)
+
+> A mobile-responsive web app enabling employers to create, read, update, and destroy employee contact info.
 
 - [Chess](#chess) (personal project)
 
@@ -66,8 +66,7 @@
 
 - Reduced Halstead effort, a metric of code unclarity, by 16% on >1000 lines of AngularJS in one day.
 - Led devops using Grunt, NPM, & TravisCI, leading to continuous integration and increased developer efficiency.
-
-<!-- - Achieved 70% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai. -->
+- Achieved 80% test coverage on >1000 lines of a Node.js/Express backend server using Mocha/Chai.
 
 
 ## [ShowPlots](http://www.showplots.com/)
@@ -89,24 +88,17 @@
 
 
 
-## [Sage](http://sageknights.herokuapp.com)
-
-> A to-do web app with a clean, easy-to-use interface.
-
-> Team: [Andrew Pedley](http://GitHub.com/apedley), [Eugene Krayni](http://GitHub.com/eakray), [Jeff Cousins](http://GitHub.com/jeffcousins), [Lucas "Luke" Powell](http://GitHub.com/lukebpowell), and [Zachary Smith](http://GitHub.com/ZacharyRSmith).
-
-> [Link to live site](http://sageknights.herokuapp.com).
-
-> [Link to code](https://github.com/ZacharyRSmith/sage).
-
-#### Accomplishments as a Backend Engineer:
-
-- Set up multiple MongoDb/Mongoose schemas and models using MVC architecture.
-- Collaborated to achieve 90% test coverage of backend using Mocha/Chai.
-
-
-
 # Personal projects:
+
+## [Kontact](https://github.com/ZacharyRSmith/adp-marketplace)
+
+> A mobile-responsive web app enabling employers to create, read, update, and destroy employee contact info.
+
+> Provides a React UI and Node.js/Express RESTful API.
+
+> [Link to live site](http://adp-challenge.herokuapp.com).
+
+> [Link to code](https://github.com/ZacharyRSmith/adp-marketplace).
 
 ## [Chess](https://github.com/ZacharyRSmith/chess)
 
